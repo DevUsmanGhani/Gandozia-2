@@ -28,3 +28,4 @@ This game is an RPG basesd in the fantasy world of "Gandozia". You take the role
 
 
 
+c
