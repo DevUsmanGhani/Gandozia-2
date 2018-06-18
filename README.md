@@ -26,6 +26,46 @@ This game is an RPG basesd in the fantasy world of "Gandozia". You take the role
 
 ## Screenshots
 
+**Skills**
+![Skills](https://i.imgur.com/B3EAaAE.png)
+
+**Fighting**
+![Fighting](https://i.imgur.com/5835nkI.png)
+
+**Enemies**
+![Enemies](https://i.imgur.com/iU2Ydh3.png)
+
+**Transmuting**
+![Transmuting](https://i.imgur.com/ci7GkpE.png)
+
+**Equipment**
+![Equipment](https://i.imgur.com/sSxAJvI.png)
+
+**Inventory**
+![Inventory](https://i.imgur.com/Vmuk8Hf.png)
+
+**Hunting**
+![Hunting](https://i.imgur.com/R3xcP9K.png)
+
+**Woodcutting**
+![Woodcutting](https://i.imgur.com/uXHnRrL.png)
+
+**Mining**
+![Mining](https://i.imgur.com/MGKeOb5.png)
+
+**Shops**
+![Shops](https://i.imgur.com/ObFyBPG.png)
+
+**Combat Shop**
+![Combat-Shop](https://i.imgur.com/NFekN6g.png)
+
+**Mining Shop**
+![Mining-Shop](https://i.imgur.com/xUxdT1H.png)
+
+**Quests**
+![Quests](https://i.imgur.com/k4n1eIN.png)
 
 
-c
+
+
+
