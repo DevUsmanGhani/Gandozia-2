@@ -1,0 +1,84 @@
+
+
+.fight{
+    font-size: 1.4em;
+    font-weight: bold;
+    margin: -.2em 1em;
+}
+.battle-button {
+    margin-right: .4em;
+    width: 10em;
+}
+.enemy-name {
+    font-size: 1.5em;
+    color: rgb(180, 61, 61);
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 1em;
+    padding: .3em;
+
+}
+
+.enemy-name-container {
+    margin-bottom: .5em;
+}
+
+.hero-name {
+    font-size: 1.4em;
+    color: darkgreen;
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 1em;
+    padding: .3em;
+}
+
+.hero-name-container {
+    margin-bottom: .5em;
+}
+.black {
+    color: white;
+}
+
+.atk-info {
+    font-size: .8em;
+    color: rgb(226, 245, 245);
+    text-align: justify;
+    
+}
+
+.atk-header {
+    font-weight: bolder;
+}
+
+.fight-buttons {
+    margin: .5em 0 .5em;
+    background-color: dimgray;
+    padding: 1em;
+    border-radius: 1em;
+    
+}
+
+.enemy-health-bar {
+    background-color: rgba(180, 61, 61, 0.849);
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.hero-health-bar {
+    background-color: olivedrab;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.health-numbers {
+    background-color: rgba(105, 105, 105, 0.63);
+    width: 100%;
+    display: inline-block;
+    border-radius: .75em;
+    padding-bottom: .75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-bottom: -.5em;
+    margin-top: .25em;
+}
+

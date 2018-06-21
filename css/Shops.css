@@ -1,0 +1,18 @@
+
+.well-header {
+    margin-top: -.3em;  
+    color: darkgoldenrod;
+}
+
+.shop-well {
+    margin-left: .5em;
+    margin-right: .5em;
+    background-color: lightgray;
+}
+.well .btn {
+    margin-top:1em;
+}
+
+.shop-header {
+    color: rgba(0, 0, 0, 0.774);
+}

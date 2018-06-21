@@ -1,0 +1,30 @@
+.eat-food-button {
+    margin-left: 1em;
+    margin: .2em 0 .2em 1em;
+}
+
+.eat-form-button{
+    width: 22%;
+    margin-right: 2%;
+    text-align: center;
+    font-weight: bold;
+    margin-top: .5em;
+    padding: .5em;
+    background-color: white;
+}
+
+.eat-form-button-close {
+    width: 22%;
+    margin-right: 2%;
+    text-align: center;
+    color: darkslategray;
+    font-weight: bold;
+    margin-top: .5em;
+    padding: .5em;
+    
+}
+
+.eat-form-current-food {
+    font-size: .9em;
+    margin-top: .4em;
+}
