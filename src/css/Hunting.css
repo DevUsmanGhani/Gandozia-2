@@ -1,0 +1,56 @@
+.hunting-well {
+    background-color: sandybrown;
+    margin: 0 1em 0;
+}
+.hunting-button {
+    width: 20%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 1.25em;
+}
+
+.hunting-routing-button {
+    background-color: rgba(218, 67, 13, 0.692);
+
+}
+
+.hunting-container {
+    margin: 1em 2em 0;
+}
+.hunting-info {
+    font-size: 1.3em;
+    color:goldenrod;
+    background-color: rgba(218, 67, 13, 0.692);
+    border-radius: 2em;
+    padding: .33em;
+    margin-top: .45em;
+
+}
+.hunting-header {
+    color:  rgba(218, 67, 13, 0.692);
+}
+.rabbit {
+    color: white,
+}
+
+.field {
+    color: transparent;
+}
+
+.field:hover {
+    color: transparent;
+}
+
+.field:active {
+    color:transparent;
+}
+
+.field:focus {
+    color:transparent;
+}
+
+.btn-success.field:active {
+    color: transparent;
+}
+
+

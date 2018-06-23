@@ -1,0 +1,107 @@
+.dont-show {
+    display: none;
+}
+
+.show {
+    display: inline-block;
+}
+
+
+.story-header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border-bottom: 1px solid black;
+    color: black;
+}
+
+
+
+.story-button {
+    background-color: darkslategray;
+    border-radius: 2em;
+    font-size: 2em;
+    margin-top: 1em;
+    width: 80%;
+
+}
+
+.story-button-header {
+    color: darkslategray;
+    width: 100%;
+    border-bottom: 1px solid darkslategray;
+    font-size: 2em;
+    text-align: center;
+    font-weight: bolder;
+    background-color: gold;
+    border-radius: 1em;
+    margin-block-end: .1em;
+}
+
+.story-button-text {
+    color: darkslategray;
+    font-size: 1.1em;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    word-spacing: -.1em;
+    background-color: goldenrod;
+    border-radius: 1em;
+    padding: .75em;
+}
+
+.chop-progress-bar {
+    margin-top: 1em;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1em;
+}
+.pop-up {
+    background-color: tan;
+    padding: 1em;
+    margin: -1em;
+    border-radius: 1em;
+}
+.pop-up-button {
+    width: 100%;
+    margin-top: .5em;
+    background-color: darkslategray;
+    border-radius: 2em;
+
+}
+
+.gandozian-woods-well {
+    background-color: olive;
+    padding: .5em;
+    border: 2px solid saddlebrown;
+    padding-bottom: 1em;   
+}
+.gandozian-woods-header {
+    color: rgb(87, 46, 17);
+    font-weight: bolder;
+    margin-bottom: .4em;
+    font-size: 1.1em;
+    border-bottom: 2px solid rgb(87, 46, 17);
+}
+
+
+.orc-city-header {
+    color: gold;
+    font-weight: bolder;
+    margin-bottom: .4em;
+    font-size: 1.1em;
+    border-bottom: 2px solid gold;
+
+}
+
+.orc-city-well {
+    background-color: slateblue;
+    padding: .5em;
+    border: 2px solid gold;
+    padding-bottom: 1em;
+}
+
+.orc-city-button {
+    background-color: darkslategray;
+}

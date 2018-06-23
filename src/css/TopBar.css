@@ -1,0 +1,30 @@
+.top-container {
+    font-family: Lucida Sans;
+    color: white;
+    font-size: 1.3em;
+}
+
+.progress {
+    margin-bottom: 0em;
+    margin-top: 0em;
+}
+
+.green-text {
+    color: rgba(31, 204, 31, 0.945);
+}
+.red-text {
+    color: red;
+
+}
+
+.red-text-alt {
+    color:tomato;
+}
+
+.arcana-number {
+    color: orange;
+}
+
+.gold-number {
+    color: goldenrod;
+}
